@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<TestData>
+	<mailserver-name>
+		<service>http://www.gmail.com</service>
+	</mailserver-name>
+	<user-details>
+		<email-id>bijoy.meethal@gmail.com</email-id>
+		<folder>inbox</folder>
+	</user-details>
+</TestData>

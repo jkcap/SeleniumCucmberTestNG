@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="tests">
+<test name="Test_Firefox">
+<parameter name="browser" value="firefox"/>
+<classes>
+<class name="WebdriverBasic.LauchDriver"/>
+</classes>
+</test>
+<test name="Test_Chrome">
+<parameter name="browser" value="chrome"/>
+<classes>
+<class name="WebdriverBasic.LauchDriver"/>
+</classes>
+</test>
+</suite>

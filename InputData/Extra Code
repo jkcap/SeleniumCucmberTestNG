@@ -1,0 +1,4 @@
+//ExtentTest childTest1 = extent.startTest(descriptionString);
+//childTest1.log(LogStatus.INFO, descriptionString,  "Launch URL Successfully");
+//test.appendChild(childTest1);
+//childTest1.log(LogStatus.PASS, descriptionString, "Page Title Verification Passed"+childTest1.addScreenCapture(ScreenshotWD.takeAScreenShot("Page Title Verified", driver)));

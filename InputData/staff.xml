@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<company id="001">
+	<staff id="1001">
+		<firstname>shailesh</firstname>
+		<lastname>gohel</lastname>
+		<Address1>K-701,Parkview street,USA</Address1>
+		<Address2>South bopal,Ahmedabad</Address2>
+		<companyname>Capgemini</companyname>
+		<City>Ahmedabad</City>
+		<email>o2adit1@gmail.com</email>
+		<stateinput>Gujarat</stateinput>
+		<inputNewPassword1>jignesH!23</inputNewPassword1>
+		<inputNewPassword2>jignesH!23</inputNewPassword2>
+		<postcode>380058</postcode>
+		<phonenumber>1234567890</phonenumber>
+		<customfield2>9876543211</customfield2>
+	</staff>
+	<staff id="2001">
+		<firstname>jignesh</firstname>
+		<lastname>kalaria</lastname>
+		<nickname>jigs</nickname>
+		<salary>200000</salary>
+	</staff>
+	<staff id="3001">
+		<firstname>pankaj</firstname>
+		<lastname>GOENKA</lastname>
+		<nickname>pg</nickname>
+		<salary>300000</salary>
+	</staff>
+</company>
