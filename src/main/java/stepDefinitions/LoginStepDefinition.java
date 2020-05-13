@@ -6,7 +6,7 @@ package stepDefinitions;
 import org.openqa.selenium.WebDriver;
 
 
-import cucumber.api.PendingException;
+
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import org.openqa.selenium.support.PageFactory;
