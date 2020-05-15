@@ -67,14 +67,14 @@ public class LoginStepDefinition{
 	
 	 @Then("^user is on home page$")
 	 public void user_is_on_hopme_page(){
-	CommonMethods.loginverify(driver);
+	CommonMethods.loginverify(driver1);
 	 }
 	 
 	 
 
 	 @Then("^Close the browser$")
 	 public void close_the_browser(){
-		 driver.quit();
+		 driver1.quit();
 	 }
 	
 	
